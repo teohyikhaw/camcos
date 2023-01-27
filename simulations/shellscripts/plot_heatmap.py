@@ -11,8 +11,8 @@ if __name__ == "__main__":
     call_data_max_limit = call_data_target_limit * 2
     step_count = 10
     # Initialize directory
-    data_dir = "/Users/teohyikhaw/Documents/camcos_results/final_result_NFT/averages/"
-    image_dir = "/Users/teohyikhaw/Documents/camcos_results/final_result_NFT/averaged_figures/"
+    data_dir = "/Users/teohyikhaw/Documents/camcos_results/final_result/averages/"
+    image_dir = "/Users/teohyikhaw/Documents/camcos_results/final_result/averaged_figures/"
 
     # learning_rates = [1/13, 1/11,1/8, 3/8, 5/8]
     target_limits = [72500, 75000, 77500, 90000]
